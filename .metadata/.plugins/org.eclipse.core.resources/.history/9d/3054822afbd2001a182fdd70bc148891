@@ -1,0 +1,10 @@
+package com.shivangi.github.bean;
+
+public class Trial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
